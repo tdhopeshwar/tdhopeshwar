@@ -19,7 +19,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tdhopeshwar&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdhopeshwar&layout=compact&theme=tokyonight" />
 </p>
+
 ![snake gif](https://github.com/tdhopeshwar/tdhopeshwar/blob/output/github-snake.svg)
+
 
 ---
 
