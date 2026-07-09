@@ -3,7 +3,6 @@
   Aspiring ML Engineer | Generative AI & Computer Vision Enthusiast | Storyteller with Code
 </p>
 
-- 🔭 Exploring: Real-time AI Applications & LLMs, check my portfolo website [here](https://portfolio-tanisha-dhopeshwar.streamlit.app/)
 
 - 🌱 I recently built a model to detect a person's height in real time, check out [here](https://github.com/tdhopeshwar/Height-Detection)
 
