@@ -39,11 +39,15 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tdhopeshwar&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdhopeshwar&layout=compact&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tdhopeshwar&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" height="165" />
 </p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tdhopeshwar/tdhopeshwar/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/tdhopeshwar/tdhopeshwar/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  </picture>
+</p>
 
 <p align="center">
   💬 Ask me about: Python · Deep Learning · Prompt Engineering · Computer Vision · NLP · Agentic AI
