@@ -44,8 +44,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tdhopeshwar/tdhopeshwar/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/tdhopeshwar/tdhopeshwar/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tdhopeshwar/tdhopeshwar/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/tdhopeshwar/tdhopeshwar/output/github-snake.svg" alt="Contribution snake" />
   </picture>
 </p>
 
